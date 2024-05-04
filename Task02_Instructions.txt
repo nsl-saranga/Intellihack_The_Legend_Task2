@@ -1,0 +1,6 @@
+Instructions--->
+1. Firstly clone the repo and open the main.py file from a IDE. (Ex: PyCharm)
+2. Next install the relevant python packages (numpy, sklearn)
+3. Compile and run the file. (Here the model will be created)
+5. The program will ask you to enter any text 10 times. And each time it will display the result(whether if it's a fallback or not. if not it will display the
+prediction intent with confidence score.)
